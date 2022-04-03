@@ -4,6 +4,8 @@ Jaylin Burlin, Emma Sampson, Laramie Snow, Zac Young
 Resources: Gavin Knapp has been a big help in establishing what programs needed to be used for this project and where we should go to find info and pointers.
     Brackeys is a channel on YouTube who has a lot of helpful information on how to make video games in Unity.
 
+    Brackeys: https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6
+
 hi
 
 
