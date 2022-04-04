@@ -4,6 +4,14 @@ Jaylin Burlin, Emma Sampson, Laramie Snow, Zac Young
 Resources: Gavin Knapp has been a big help in establishing what programs needed to be used for this project and where we should go to find info and pointers.
     Brackeys is a channel on YouTube who has a lot of helpful information on how to make video games in Unity.
 
-hi
+    Brackeys: https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6
+Goals: Use of Visual Studio Code and Unity game engine to create an education science game. This game will teach the basics of periodic table and it's organization.
+
+
+Initial Results: We all downloaded Unity game engine and Visual Studio Code. We began a shared GitHub that will keep track of all of our progress. We cloned the GitHub 
+repository into Visual Studio Code so we can work and save our progress through this platform. We began watching Brackeys youtube to begin learning how to create games 
+in Unity.
+
+
 
 
