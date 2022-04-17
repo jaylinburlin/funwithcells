@@ -12,7 +12,7 @@ Initial Results: We all downloaded Unity game engine and Visual Studio Code. We 
 repository into Visual Studio Code so we can work and save our progress through this platform. We began watching Brackeys youtube to begin learning how to create games 
 in Unity.
 
-All program files from the Unity game engine have been added to the UnityFiles branch of this repository.
+All program files from the Unity game engine have been added to the master branch of this repository.
 
 
 Initial Results: First Scene
