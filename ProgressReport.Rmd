@@ -1,0 +1,22 @@
+---
+title: "Periodic Shuffle Progress Report"
+output:
+  html_document:
+    toc: true
+    fig_caption: true
+---
+#Periodic Shuffle Progress Report
+
+##General
+We have created a game. The goal of this game was to make a children's game to allow them to practice thier skills of periodic table element identification.
+
+##Jaylin Burlin
+My contributions to the game included: configuring the questions and a data array used for asking questions for each of the elements, I created a function which selected random element, I updated the question text to match the element, I created a function that selected a new element after the user picked one. 
+
+
+##Emma Sampson
+
+
+##Laramie Snow
+
+##Zac Young
