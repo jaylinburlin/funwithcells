@@ -20,3 +20,5 @@ My contribution to the game was designing a title screen and uploading it onto u
 ##Laramie Snow
 
 ##Zac Young
+Found and created sound effects and tracks which were implemented into the game. THese audio files were added to the assets folder and were attached to audio source on a game object within the scene.
+THe audio files play constantly and loop once the title scene is bypassed. Other audio files were set up to play when events were triggered.
