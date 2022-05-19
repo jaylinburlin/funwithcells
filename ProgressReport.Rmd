@@ -15,7 +15,7 @@ My contributions to the game included: configuring the questions and a data arra
 
 
 ##Emma Sampson
-
+My contribution to the game was designing a title screen and uploading it onto unity. I also added buttons to the title screen that allowed you to begin and end the game.
 
 ##Laramie Snow
 
