@@ -1,11 +1,11 @@
 ---
-title: "Periodic Shuffle Progress Report"
+title: "Final Notebook"
 output:
   html_document:
     toc: true
     fig_caption: true
 ---
-#Periodic Shuffle Progress Report
+#Periodic Shuffle Final Notebook
 
 ##General
 We have created a game. The goal of this game was to make a children's game to allow them to practice thier skills of periodic table element identification.
@@ -18,6 +18,7 @@ My contributions to the game included: configuring the questions and a data arra
 My contribution to the game was designing a title screen and uploading it onto unity. I also added buttons to the title screen that allowed you to begin and end the game.
 
 ##Laramie Snow
+
 
 ##Zac Young
 Found and created sound effects and tracks which were implemented into the game. THese audio files were added to the assets folder and were attached to audio source on a game object within the scene.
